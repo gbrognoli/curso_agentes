@@ -1,0 +1,18 @@
+# requirements.txt para o Agente com Google Gemini
+
+# Para a interface web
+streamlit
+
+# Para manipulação de dados
+pandas
+
+# Para os gráficos
+matplotlib
+
+# Para o Agente e o Modelo de Linguagem (LLM)
+langchain
+langchain-google-genai
+langchain-experimental
+
+# Dependência opcional que o LangChain usa para exibir tabelas
+tabulate
